@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expendedoras-G2-2022-II", "Expendedoras-G2-2022-II.csproj", "{75DB3755-3898-46DE-88B6-A0FB2C9DD87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DB3755-3898-46DE-88B6-A0FB2C9DD87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DB3755-3898-46DE-88B6-A0FB2C9DD87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DB3755-3898-46DE-88B6-A0FB2C9DD87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DB3755-3898-46DE-88B6-A0FB2C9DD87A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741755A0-7D33-4F11-9826-317B3A91702E}
+	EndGlobalSection
+EndGlobal
